@@ -20,7 +20,7 @@ A Python web scraping library helps extract data from web pages, supporting step
 
 ## Top 7 Python Libraries for Web Scraping
 
-### 1. Selenium
+### 1. [Selenium](https://www.selenium.dev/)
 
 A browser automation library ideal for dynamic content.
 
@@ -29,7 +29,7 @@ A browser automation library ideal for dynamic content.
 - **GitHub stars:** ~31.2k
 - **Weekly downloads:** ~4.7M
 
-### 2. Requests
+### 2. [Requests](https://pypi.org/project/requests/)
 
 An HTTP client for sending requests and handling responses.
 
@@ -38,7 +38,7 @@ An HTTP client for sending requests and handling responses.
 - **GitHub stars:** ~52.3k
 - **Weekly downloads:** ~128.3M
 
-### 3. Beautiful Soup
+### 3. [Beautiful Soup](https://pypi.org/project/beautifulsoup4/)
 
 Parses HTML and XML documents.
 
@@ -46,7 +46,7 @@ Parses HTML and XML documents.
 - **Category:** HTML parser
 - **Weekly downloads:** ~29M
 
-### 4. SeleniumBase
+### 4. [SeleniumBase](https://seleniumbase.com/)
 
 An enhanced Selenium version for advanced automation.
 
@@ -55,7 +55,7 @@ An enhanced Selenium version for advanced automation.
 - **GitHub stars:** ~8.8k
 - **Weekly downloads:** ~200k
 
-### 5. curl_cffi
+### 5. [curl_cffi](https://github.com/lexiforest/curl_cffi)
 
 An HTTP client mimicking browser behavior.
 
@@ -64,7 +64,7 @@ An HTTP client mimicking browser behavior.
 - **GitHub stars:** ~2.8k
 - **Weekly downloads:** ~310k
 
-### 6. Playwright
+### 6. [Playwright](https://playwright.dev/)
 
 A versatile headless browser library.
 
@@ -73,7 +73,7 @@ A versatile headless browser library.
 - **GitHub stars:** ~12.2k
 - **Weekly downloads:** ~1.2M
 
-### 7. Scrapy
+### 7. [Scrapy](https://scrapy.org/)
 
 An all-in-one framework for web crawling and scraping.
 
