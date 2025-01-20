@@ -6,7 +6,7 @@ Learn about the top Python web scraping libraries, their key features, and how t
 
 ## What Is a Python Web Scraping Library?
 
-A Python web scraping library helps extract data from web pages, supporting steps like sending HTTP requests, parsing HTML, and executing JavaScript. Categories include HTTP clients, all-in-one frameworks, and headless browser tools.
+A Python web scraping library helps extract data from web pages, supporting steps like sending HTTP requests, [parsing HTML](https://brightdata.com/blog/web-data/best-python-html-parsers), and executing JavaScript. Categories include [HTTP clients](https://brightdata.com/blog/web-data/best-python-http-clients), all-in-one frameworks, and [headless browser tools](https://brightdata.com/blog/web-data/best-headless-browsers).
 
 ## Elements to Consider
 
@@ -29,6 +29,8 @@ A browser automation library ideal for dynamic content.
 - **GitHub stars:** ~31.2k
 - **Weekly downloads:** ~4.7M
 
+> 💡 Learn more about [**web scraping with Selenium**](https://brightdata.com/blog/how-tos/using-selenium-for-web-scraping).
+
 ### 2. [Requests](https://pypi.org/project/requests/)
 
 An HTTP client for sending requests and handling responses.
@@ -38,6 +40,8 @@ An HTTP client for sending requests and handling responses.
 - **GitHub stars:** ~52.3k
 - **Weekly downloads:** ~128.3M
 
+> 💡 Learn more about [**web scraping with Requests**](https://brightdata.com/blog/web-data/python-requests-guide).
+
 ### 3. [Beautiful Soup](https://pypi.org/project/beautifulsoup4/)
 
 Parses HTML and XML documents.
@@ -45,6 +49,8 @@ Parses HTML and XML documents.
 - **Features:** Supports various parsers, can handle malformed HTML.
 - **Category:** HTML parser
 - **Weekly downloads:** ~29M
+
+> 💡 Learn more about [**web scraping with Beautiful Soup**](https://brightdata.com/blog/how-tos/beautiful-soup-web-scraping).
 
 ### 4. [SeleniumBase](https://seleniumbase.com/)
 
@@ -54,6 +60,8 @@ An enhanced Selenium version for advanced automation.
 - **Category:** Browser automation
 - **GitHub stars:** ~8.8k
 - **Weekly downloads:** ~200k
+
+> 💡 Learn more about [**web scraping with SeleniumBase**](https://brightdata.com/blog/web-data/web-scraping-with-seleniumbase).
 
 ### 5. [curl_cffi](https://github.com/lexiforest/curl_cffi)
 
@@ -73,6 +81,8 @@ A versatile headless browser library.
 - **GitHub stars:** ~12.2k
 - **Weekly downloads:** ~1.2M
 
+> 💡 Learn more about [**web scraping with Playwright**](https://brightdata.com/blog/how-tos/playwright-web-scraping).
+
 ### 7. [Scrapy](https://scrapy.org/)
 
 An all-in-one framework for web crawling and scraping.
@@ -81,6 +91,8 @@ An all-in-one framework for web crawling and scraping.
 - **Category:** Scraping framework
 - **GitHub stars:** ~53.7k
 - **Weekly downloads:** ~304k
+
+> 💡 Learn more about [**web scraping with Scrapy**](https://brightdata.com/blog/how-tos/web-scraping-with-scrapy).
 
 ## Summary Table
 
@@ -96,4 +108,9 @@ An all-in-one framework for web crawling and scraping.
 
 ## Conclusion
 
-These libraries are great for web scraping but face challenges like IP bans and CAPTCHAs. Consider using [Bright Data solutions](https://brightdata.com/) for enhanced capabilities.
+These libraries are great for web scraping but face challenges like IP bans and CAPTCHAs. Consider using [Bright Data solutions](https://brightdata.com/) for enhanced capabilities. You can also learn how to scrape specific websites:
+
+- [**Amazon**](https://github.com/luminati-io/LinkedIn-Scraper)
+- [***LinkedIn**](https://github.com/luminati-io/LinkedIn-Scraper)
+- [**Google Maps**](https://github.com/luminati-io/Google-Maps-Scraper)
+- [**Google News**](https://github.com/luminati-io/Google-News-Scraper)
