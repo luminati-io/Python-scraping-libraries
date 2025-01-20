@@ -111,6 +111,6 @@ An all-in-one framework for web crawling and scraping.
 These libraries are great for web scraping but face challenges like IP bans and CAPTCHAs. Consider using [Bright Data solutions](https://brightdata.com/) for enhanced capabilities. You can also learn how to scrape specific websites:
 
 - [**Amazon**](https://github.com/luminati-io/LinkedIn-Scraper)
-- [***LinkedIn**](https://github.com/luminati-io/LinkedIn-Scraper)
+- [**LinkedIn**](https://github.com/luminati-io/LinkedIn-Scraper)
 - [**Google Maps**](https://github.com/luminati-io/Google-Maps-Scraper)
 - [**Google News**](https://github.com/luminati-io/Google-News-Scraper)
